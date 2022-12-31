@@ -1,1 +1,3 @@
-# Breast_Cancer_Classification
+# Breast Cancer Classification
+
+Using a random forest classifier to predict breast cancer tumors. 
